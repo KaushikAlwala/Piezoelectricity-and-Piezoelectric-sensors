@@ -33,7 +33,7 @@ Ri - insulation leakage reactance
 We attach a load(which depends on our application) parallel to the leakage reactance.
 ### Graph
 The graph of the sensitivity i.e. ratio of the electric output and the applied force/acceleration denoted by s(w) and frequency(frequency of the crystal due to applied force, stress or acceleration ) will be as shown below.
-
+![](graph.png)
 To make use of piezoelectric material as a sensor, the flat region of the frequency plot(the part of the graph which is in between wmin and wmax) is used. To accommodate low frequencies of interest the load resistance and leakage reactance should be quite large.
 ### Working
 So a typical piezoelectric sensor has a base plate, seismic mass, and the piezoelectric crystal. When the force/ stress is applied or the sensor experiences motion (this happens in accelerometers), the seismic mass loads up the elements. The voltage corresponding to the physical parameter is generated at the source as shown in the circuit above. This can be seen as if the voltage generated drives the equivalent circuit and we get an output signal (which is generally voltage across the load/current through the load), which is processed to determine the physical parameter.
