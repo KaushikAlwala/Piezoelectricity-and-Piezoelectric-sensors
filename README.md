@@ -9,11 +9,11 @@ Piezoelectricity has a number of useful applications. Piezoelectric materials ar
 ## Modes of operation of piezoelectric materials:
 The piezoelectric material has three main modes of operation which depend on the way it has been cut.
 ### 1.Transverse Effect:
-A force applied along a neutral axis(let’s say y-axis), displaces the charge along an axis perpendicular to the neutral axis(x-axis) and the amount of charge displaced is proportional to the applied force and the dimensions of the crystal along the respective axes.
+A force applied along a neutral axis(let’s say y-axis), displaces the charge along an axis perpendicular to the neutral axis(x-axis) and the amount of charge displaced is proportional to the applied force and the dimensions of the crystal along the respective axes.<br>
 **Qx = dxy * Fy * (b/a)** 
 Where ‘Qx’ is the charge displaced along the x-axis, ‘a’ is the dimension of the crystal parallel to the neutral axis(y-axis), ‘b’ is the dimension of the crystal along the x-axis and ‘dxy’ is the corresponding piezoelectric coefficient in that plane(XY-plane).
 ### 2. Longitudinal Effect:
-The amount of electric charge that gets displaced in the direction of the applied force(let’s say x-axis) is only proportional to the applied force and does not depend on any of the dimensions of the crystal    
+The amount of electric charge that gets displaced in the direction of the applied force(let’s say x-axis) is only proportional to the applied force and does not depend on any of the dimensions of the crystal.    
 **Qx = dxx * Fx**
 Where ‘Qx’ is the charge displaced along the x-axis, ‘Fx’ is the force applied along the x-axis and ‘dxx’ is the corresponding piezoelectric coefficient along the x-axis
 ### 3. Shear Effect:
