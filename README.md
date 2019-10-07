@@ -24,7 +24,7 @@ The amount of charge produced in the plane(YZ-plane) normal to the direction of 
 A piezoelectric sensor utilizes the piezoelectric effect to measure the change in physical quantities like acceleration, pressure, temperature, strain, force, etc by converting them into electric charge.
 ### Equivalent circuit
 The voltage produced at the source ‘V’ is directly proportional to the applied force, pressure, strain, or the magnitude of acceleration (in accelerometers). The Equivalent circuit of the piezoelectric sensor is as shown.
-![]()
+![](equivalent_circuit.png)
 V - Voltage produced by piezoelectric material
 Ce - represents the mechanical elasticity of the material
 Lm - due to seismic mass and inertia of sensor
