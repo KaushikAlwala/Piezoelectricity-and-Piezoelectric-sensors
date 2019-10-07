@@ -13,29 +13,29 @@ A force applied along a neutral axis(let’s say y-axis), displaces the charge a
 **Qx = dxy * Fy * (b/a)** <br>
 Where ‘Qx’ is the charge displaced along the x-axis, ‘a’ is the dimension of the crystal parallel to the neutral axis(y-axis), ‘b’ is the dimension of the crystal along the x-axis and ‘dxy’ is the corresponding piezoelectric coefficient in that plane(XY-plane).
 ### 2. Longitudinal Effect:
-The amount of electric charge that gets displaced in the direction of the applied force(let’s say x-axis) is only proportional to the applied force and does not depend on any of the dimensions of the crystal.    
-**Qx = dxx * Fx**
+The amount of electric charge that gets displaced in the direction of the applied force(let’s say x-axis) is only proportional to the applied force and does not depend on any of the dimensions of the crystal.<br>    
+**Qx = dxx * Fx**<br>
 Where ‘Qx’ is the charge displaced along the x-axis, ‘Fx’ is the force applied along the x-axis and ‘dxx’ is the corresponding piezoelectric coefficient along the x-axis
 ### 3. Shear Effect:
-The amount of charge produced in the plane(YZ-plane) normal to the direction of the applied force(along the x-axis) is only proportional to the applied force and does not depend on any of the dimensions of the crystal and is twice the amount of the charge produced in the direction of the force.\s\s  
-**Qyz = 2 * dxx * Fx**\s\s
- Where ‘Qyz‘ is the amount of charge produced in the YZ-plane, ‘Fx’ is the force applied along the x-axis and ‘dxx’ is the corresponding piezoelectric coefficient.
+The amount of charge produced in the plane(YZ-plane) normal to the direction of the applied force(along the x-axis) is only proportional to the applied force and does not depend on any of the dimensions of the crystal and is twice the amount of the charge produced in the direction of the force.<br>
+**Qyz = 2 * dxx * Fx**<br>
+Where ‘Qyz‘ is the amount of charge produced in the YZ-plane, ‘Fx’ is the force applied along the x-axis and ‘dxx’ is the corresponding piezoelectric coefficient.
 ## Piezoelectric Sensors
 A piezoelectric sensor utilizes the piezoelectric effect to measure the change in physical quantities like acceleration, pressure, temperature, strain, force, etc by converting them into electric charge.
 ### Equivalent circuit
-The voltage produced at the source ‘V’ is directly proportional to the applied force, pressure, strain, or the magnitude of acceleration (in accelerometers). The Equivalent circuit of the piezoelectric sensor is as shown./s/s
+The voltage produced at the source ‘V’ is directly proportional to the applied force, pressure, strain, or the magnitude of acceleration (in accelerometers). The Equivalent circuit of the piezoelectric sensor is as shown.<br>
 ![](equivalent_circuit.png)
-/s/s
-V - Voltage produced by piezoelectric material/s/s
-Ce - represents the mechanical elasticity of the material/s/s
-Lm - due to seismic mass and inertia of sensor/s/s
-Co - static capacitance of the sensor i.e. capacitance due to base plates/s/s
-Ri - insulation leakage reactance/s/s
-We attach a load(which depends on our application) parallel to the leakage reactance./s/s
+<br>
+V - Voltage produced by piezoelectric material<br>
+Ce - represents the mechanical elasticity of the material<br>
+Lm - due to seismic mass and inertia of sensor<br>
+Co - static capacitance of the sensor i.e. capacitance due to base plates<br>
+Ri - insulation leakage reactance<br>
+We attach a load(which depends on our application) parallel to the leakage reactance.<br>
 ### Graph
-The graph of the sensitivity i.e. ratio of the electric output and the applied force/acceleration denoted by s(w) and frequency(frequency of the crystal due to applied force, stress or acceleration ) will be as shown below.\s\s
+The graph of the sensitivity i.e. ratio of the electric output and the applied force/acceleration denoted by s(w) and frequency(frequency of the crystal due to applied force, stress or acceleration ) will be as shown below.<br>
 ![](graph.jpg)
-/s/s
+<br>
 To make use of piezoelectric material as a sensor, the flat region of the frequency plot(the part of the graph which is in between wmin and wmax) is used. To accommodate low frequencies of interest the load resistance and leakage reactance should be quite large.
 ### Working
 So a typical piezoelectric sensor has a base plate, seismic mass, and the piezoelectric crystal. When the force/ stress is applied or the sensor experiences motion (this happens in accelerometers), the seismic mass loads up the elements. The voltage corresponding to the physical parameter is generated at the source as shown in the circuit above. This can be seen as if the voltage generated drives the equivalent circuit and we get an output signal (which is generally voltage across the load/current through the load), which is processed to determine the physical parameter.
