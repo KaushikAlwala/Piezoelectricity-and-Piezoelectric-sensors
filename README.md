@@ -5,7 +5,7 @@ The piezoelectric effect is a result of the linear electromechanical interaction
 We can say that a crystal can exhibit the piezoelectric effect if:
 1. The crystal lattice should contain polar bonds. For example, Quartz exhibits the piezoelectric effect because of the oxygen-sulfur bond which is a polar bond.
 2. The crystal structure should not have inversion symmetry/point symmetry. If point symmetry exists in the crystal then the center of charge will not be displaced even if there is some mechanical stress on the crystal, as a result, there would be no piezoelectric effect in this case.<br>
-## Uses
+### Uses
 Piezoelectricity has a number of useful applications. Piezoelectric materials are used in the detection and production of sound, high voltage power sources, sensors, actuators, piezoelectric motors, electronic frequency generation, etc. The piezoelectric material quartz is used as a time reference in Quartz watches. These materials also find some daily life applications such as acting as a source of ignition in lighters, for amplification pickups in some guitars.
 ## Modes of operation of piezoelectric materials:
 The piezoelectric material has three main modes of operation which depend on the way it has been cut.
