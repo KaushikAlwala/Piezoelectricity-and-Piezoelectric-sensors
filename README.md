@@ -1,2 +1,4 @@
 # Piezoelectricity-and-Piezoelectric-sensors
 A blog on Piezoelectricity and Piezoelectric sensors
+The accumulation of electric charge in solid materials in response to applied mechanical stress is called the piezoelectric effect or piezoelectricity, and those types of solid materials are called piezoelectric materials. Quartz, Berlinite (AlPO4), Sucrose (table sugar), Topaz, Tourmaline-group minerals, Lead titanate, etc. are some examples of naturally occurring piezoelectric materials. Some of the biological materials exhibiting piezoelectricity include silk, wood, enamel, tendon, etc. Barium titanate, Lead zirconate titanate, Potassium niobate, Sodium tungstate, Zinc oxide, etc., fall under the category of Synthetic ceramics that exhibit the piezoelectric effect. Piezoelectric effect is also exhibited by some polymers like polyvinylidene fluoride (PVDF), polyvinylidene chloride (PDVC), etc. 
+
