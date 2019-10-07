@@ -13,11 +13,11 @@ A force applied along a neutral axis(let’s say y-axis), displaces the charge a
 **Qx = dxy * Fy * (b/a)**
 Where ‘Qx’ is the charge displaced along the x-axis, ‘a’ is the dimension of the crystal parallel to the neutral axis(y-axis), ‘b’ is the dimension of the crystal along the x-axis and ‘dxy’ is the corresponding piezoelectric coefficient in that plane(XY-plane).
 ### 2. Longitudinal Effect:
-The amount of electric charge that gets displaced in the direction of the applied force(let’s say x-axis) is only proportional to the applied force and does not depend on any of the dimensions of the crystal.
+The amount of electric charge that gets displaced in the direction of the applied force(let’s say x-axis) is only proportional to the applied force and does not depend on any of the dimensions of the crystal.    
 **Qx = dxx * Fx**
 Where ‘Qx’ is the charge displaced along the x-axis, ‘Fx’ is the force applied along the x-axis and ‘dxx’ is the corresponding piezoelectric coefficient along the x-axis
 ### 3. Shear Effect:
-The amount of charge produced in the plane(YZ-plane) normal to the direction of the applied force(along the x-axis) is only proportional to the applied force and does not depend on any of the dimensions of the crystal and is twice the amount of the charge produced in the direction of the force.
+The amount of charge produced in the plane(YZ-plane) normal to the direction of the applied force(along the x-axis) is only proportional to the applied force and does not depend on any of the dimensions of the crystal and is twice the amount of the charge produced in the direction of the force.  
 **Qyz = 2 * dxx * Fx**
  Where ‘Qyz‘ is the amount of charge produced in the YZ-plane, ‘Fx’ is the force applied along the x-axis and ‘dxx’ is the corresponding piezoelectric coefficient.
 ## Piezoelectric Sensors
