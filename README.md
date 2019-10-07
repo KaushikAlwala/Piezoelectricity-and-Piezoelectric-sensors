@@ -24,7 +24,7 @@ The amount of charge produced in the plane(YZ-plane) normal to the direction of 
 A piezoelectric sensor utilizes the piezoelectric effect to measure the change in physical quantities like acceleration, pressure, temperature, strain, force, etc by converting them into electric charge.
 ### Equivalent circuit
 The voltage produced at the source ‘V’ is directly proportional to the applied force, pressure, strain, or the magnitude of acceleration (in accelerometers). The Equivalent circuit of the piezoelectric sensor is as shown.
-
+![]()
 V - Voltage produced by piezoelectric material
 Ce - represents the mechanical elasticity of the material
 Lm - due to seismic mass and inertia of sensor
@@ -32,8 +32,8 @@ Co - static capacitance of the sensor i.e. capacitance due to base plates
 Ri - insulation leakage reactance
 We attach a load(which depends on our application) parallel to the leakage reactance.
 ### Graph
-The graph of the sensitivity i.e. ratio of the electric output and the applied force/acceleration denoted by s(w) and frequency(frequency of the crystal due to applied force, stress or acceleration ) will be as shown below.
-![](graph.jpg)
+The graph of the sensitivity i.e. ratio of the electric output and the applied force/acceleration denoted by s(w) and frequency(frequency of the crystal due to applied force, stress or acceleration ) will be as shown below.\s\s
+![](graph.jpg)\s\s
 To make use of piezoelectric material as a sensor, the flat region of the frequency plot(the part of the graph which is in between wmin and wmax) is used. To accommodate low frequencies of interest the load resistance and leakage reactance should be quite large.
 ### Working
 So a typical piezoelectric sensor has a base plate, seismic mass, and the piezoelectric crystal. When the force/ stress is applied or the sensor experiences motion (this happens in accelerometers), the seismic mass loads up the elements. The voltage corresponding to the physical parameter is generated at the source as shown in the circuit above. This can be seen as if the voltage generated drives the equivalent circuit and we get an output signal (which is generally voltage across the load/current through the load), which is processed to determine the physical parameter.
